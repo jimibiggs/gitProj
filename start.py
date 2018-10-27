@@ -1,3 +1,7 @@
 import io
 
-print("qdfsg")
+def jprint():
+    print('sqdf')   
+
+jprint()
+
